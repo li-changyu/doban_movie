@@ -1,0 +1,23 @@
+{
+  "name": "doban_movie",
+  "version": "1.0.0",
+  "description": "基于koa2的爬虫网站",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-changyu/doban_movie.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/li-changyu/doban_movie/issues"
+  },
+  "homepage": "https://github.com/li-changyu/doban_movie#readme",
+  "devDependencies": {
+    "koa": "^2.5.2"
+  }
+}
